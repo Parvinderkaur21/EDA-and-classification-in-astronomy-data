@@ -4,12 +4,18 @@ We performed Exploratory Data Analysis on the dataset and further various ML Alg
 Our goal is to to help astronomers and astrophysicists to identify between stars , quasars and galaxies which will help them in futher research.
 
 The following is the table of contents:
-          1. Configuring the environment
-          2. Data Preparation
-          3. High level Statistics
-          4. Univariate Analysis
-          5. Multivariate Analysis
-          6. ML Algorithms
+
+    1. Configuring the environment
+    
+    2. Data Preparation
+    
+    3. High level Statistics
+    
+    4. Univariate Analysis
+    
+    5. Multivariate Analysis
+    
+    6. ML Algorithms
           
 
          
